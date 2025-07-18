@@ -1,0 +1,17 @@
+name: envs
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - ipykernel
+  - matplotlib
+  - numpy
+  - jupyter
+  - pip
+  - pip:
+    - papermill
+    - torchinfo
+    - wandb

@@ -1,0 +1,19 @@
+name: envs
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python
+  - pytorch-cuda=12.1
+  - cuda-version=12.1
+  - torchvision
+  - ipykernel
+  - matplotlib
+  - numpy
+  - jupyter
+  - pip
+  - pip:
+      - papermill
+      - torchinfo
+      - wandb
