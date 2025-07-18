@@ -30,4 +30,4 @@ conda activate ./envs
 ```
 
 ## Valutare le prestazioni del progetto
-Eseguire i notebook `cnn2_modelnet_py.ipynb`, `cnn2_smallnorb_pt.ipynb` e `cnn2_rgbd_pt.ipynb` per valute le prestazioni del progetto.
+Eseguire i notebook `cnn2_modelnet_py.ipynb`, `cnn2_smallnorb_pt.ipynb` e `cnn2_rgbd_pt.ipynb` per valutare le prestazioni del progetto.
