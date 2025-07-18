@@ -1,7 +1,6 @@
 import numpy as np
 import os
-from torch.utils.data import Dataset, DataLoader
-from torchvision import datasets, transforms
+from torch.utils.data import Dataset
 
 class SmallNorbDataset(Dataset):
     """small NORB dataset."""

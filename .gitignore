@@ -2,3 +2,4 @@
 /envs
 /dataset
 .DS_Store
+*.pth.tar
